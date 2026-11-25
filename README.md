@@ -10,7 +10,7 @@ I now build 0-to-1 AI product cases, no-code, with AI tools. Each case lives in 
 
 ## Case studies
 
-- **[Ji isn't always yes](https://github.com/shrutimbajpai-prog/voice-ai-ji-context-case)** — catching context failures in Indian voice calls, a case written for Bolna. The repo is private for now and will go live once it is published.
+- **[Ji isn't always yes](https://github.com/shrutimbajpai-prog/voice-ai-ji-context-case)** — catching context failures in Indian voice calls, a case written for Bolna.
 
 ## Find me
 
