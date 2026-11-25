@@ -1,10 +1,10 @@
 # Hi, I'm Shruti Bajpai
 
-I'm moving into product management, and I'm the former founder and CEO of Scale, where I built an AI training program for engineers from zero to one. I'm relocating to Bengaluru.
+Moving into AI product management after founding Scale. I plan 0-to-1 AI product cases myself and back each one with a working demo. I'm relocating to Bengaluru.
 
 At Scale I owned the whole product: finding the problem, designing the course with an engineer-instructor, setting go/no-go gates before launch, and running a cohort where students built AI apps on Google Cloud.
 
-Now I build 0-to-1 AI product cases, no-code, with AI tools. Each case lives in its own repo, with a README written around that application.
+Each case lives in its own repo, with a README written around that application.
 
 ## Case studies
 
