@@ -1,15 +1,17 @@
-# Hi, I'm Shruti Bajpai 👋
+# Hi, I'm Shruti Bajpai
 
-I'm moving into tech product management in Bengaluru. I founded and ran Scale, an AI education startup whose 8-week cohort built AI-agent apps on Google Cloud. Before that I worked on D2C strategy (pricing, SKU rationalisation, go-to-market), led a design department as Head of Department, and managed a garment export house.
+I'm a founder moving into product management, based in Bengaluru. Welcome to my GitHub.
 
-## Projects
+My background is in fashion and management. I've run operations at a garment export house, taught as a design professor and head of department, served as an industry expert on a state university Board of Studies (AKTU), and been a strategic advisor on a D2C brand's founding team.
 
-- [Medicare Part D generic-switch analysis](https://github.com/shrutimbajpai-prog/medicare-part-d-generic-switch-analysis): DuckDB SQL on 1.35M CMS prescribing rows, turned into a sized product recommendation with a success metric and guardrails.
+I then founded Scale, which trained engineers in AI.
 
-## What I work with
+I now build 0-to-1 AI product cases, no-code, with AI tools. Each case lives in its own repo, with a README written around that application.
 
-Product discovery · PRDs · metrics and experiments · SQL (DuckDB) · GCP · AI tools
+## Case studies
 
-## Contact
+- **[Ji isn't always yes](https://github.com/shrutimbajpai-prog/voice-ai-ji-context-case)** — catching context failures in Indian voice calls, a case written for Bolna. The repo is private for now and will go live once it is published.
+
+## Find me
 
 [LinkedIn](https://www.linkedin.com/in/shrutibajpai1)
